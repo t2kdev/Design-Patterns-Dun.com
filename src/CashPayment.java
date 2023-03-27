@@ -1,0 +1,3 @@
+class CashPayment extends PaymentMethod {
+
+}

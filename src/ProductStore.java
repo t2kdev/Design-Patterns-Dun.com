@@ -1,0 +1,3 @@
+class ProductStore implements Observable {
+
+}

@@ -1,0 +1,3 @@
+class CreditCardPayment extends PaymentMethod {
+
+}
