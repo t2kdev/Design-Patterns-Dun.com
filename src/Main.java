@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        //  factory pattern
+        // Factory pattern
         ProductFactory factory = new Factory();
 
         Product iphone = factory.createProduct("iphone",900,"telefoon");
@@ -35,6 +35,5 @@ public class Main {
 
         creditCardPayment.pay(totalPrice);
         cashPayment.pay(totalPrice);
-
     }
 }
