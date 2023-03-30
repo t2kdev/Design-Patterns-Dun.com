@@ -5,7 +5,7 @@ Made by:
 - Peter Bos
 - Luca Eisinga
 
-contains the following design patterns: <br/>
+Contains the following design patterns: <br/>
 - Factory
 - Observer
 - Decorator
