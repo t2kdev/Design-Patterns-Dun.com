@@ -6,8 +6,8 @@ Made by:
 - Luca Eisinga
 
 Contains the following design patterns: <br/>
-- Factory
-- Observer
-- Decorator
-- Template
+- Factory - creates products
+- Observer - informs users about discount
+- Decorator - add discount to individual products
+- Template - option to pay by credit card or cash
 
